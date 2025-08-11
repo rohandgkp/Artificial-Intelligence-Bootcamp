@@ -1,1 +1,1 @@
-# AI-Mastery-Bootcamp
+# Artificial-Intelligence-Bootcamp
