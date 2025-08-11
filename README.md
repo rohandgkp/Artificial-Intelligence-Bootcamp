@@ -71,3 +71,5 @@
 **Week - 35**: More Projects  
 
 **Week - 36**: AI System Engineering Projects
+
+***Week - 2 files will be uploaded on 12-08-2025.***
